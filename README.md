@@ -2,6 +2,8 @@
 
 Modulo is an innovative AI-powered platform for interior design, offering personalized design recommendations and 3D virtual walkthroughs. The platform combines cutting-edge artificial intelligence with an extensive product store to help clients design and visualize their ideal spaces effortlessly.
 
+The project will create an AI-driven platform for interior design and construction, offering clients personalized design recommendations, 3D walkthrough experiences, and product suggestions. The platform will leverage AI algorithms to analyze user preferences and provide tailored design solutions, while integrating a powerful store of various brands' products to help clients furnish their spaces. A transparent cost estimate for the design will also be provided, ensuring clients have a clear understanding of the full scope of their project.
+
 ## Core Features
 
 ### 1. **Client Input**
